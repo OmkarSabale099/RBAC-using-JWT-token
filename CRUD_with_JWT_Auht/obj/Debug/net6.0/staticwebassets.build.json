@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z9aTnZEmdyMN6v1RaBRLWSJOc7gNwc5BlhDrcs5rdzw=",
+  "Source": "RBAC JWT TOKEN",
+  "BasePath": "_content/RBAC JWT TOKEN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

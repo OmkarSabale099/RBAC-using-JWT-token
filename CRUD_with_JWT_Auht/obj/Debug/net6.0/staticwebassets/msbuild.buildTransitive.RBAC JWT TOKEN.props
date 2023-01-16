@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RBAC JWT TOKEN.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RBAC_JWT_TOKEN.props" />
+</Project>

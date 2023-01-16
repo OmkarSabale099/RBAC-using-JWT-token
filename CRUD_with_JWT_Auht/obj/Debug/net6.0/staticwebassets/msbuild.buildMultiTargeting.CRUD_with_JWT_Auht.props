@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_with_JWT_Auht.props" />
+</Project>
